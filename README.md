@@ -1,3 +1,3 @@
 ..# Mobile-app
 
-App is not working bro
+.Apk will be published soon 
