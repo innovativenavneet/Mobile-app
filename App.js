@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { Provider } from "react-redux";
 import { store } from './store';
 import { NavigationContainer } from '@react-navigation/native';
-import StackNavigator from './Navigation/StackNavigator';
+import StackNavigator from './StackNavigator';
 import 'react-native-gesture-handler';
 
 // App.js or index.js
